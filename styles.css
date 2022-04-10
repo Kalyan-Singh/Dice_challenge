@@ -1,0 +1,53 @@
+.container{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    font-family:"Lobster",cursive;
+    font-size: 3rem;
+}
+.player{
+    display: inline-block;
+    margin: auto;
+}
+.p1{
+    display: inline-block;
+    margin-right: 20px;
+}
+.p2{
+    display: inline-block;
+}
+.dice1{
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dice2{
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    margin-bottom: 0px;
+    color: #4ECCA3;
+}
+footer{
+    text-align: center;
+}
+.Btn{
+    position: relative;
+    left: 720px;
+    display: block;
+}
+body {
+    background-color: #393E46;
+  }
+
+p{
+    color: #4ECCA3;
+}
+.Btn{
+    background-color: #4ECCA3;
+}
+
